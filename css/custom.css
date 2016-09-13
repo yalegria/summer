@@ -247,6 +247,9 @@ section#secThree {
 	text-transform: uppercase;
 	border: none;
 }
+.btn-primary:hover {
+	background: #780320;
+}
 .btn-secondary {
        	background: rgba(0, 0, 0, 0.8);
         background: #264386;
@@ -259,6 +262,11 @@ section#secThree {
 .btn-tertiary {
 
 }
+
+#apply-now i {
+	display: none;
+}
+/*
 .btn-tail-left:before {
 	position: absolute;
         content: "";
@@ -270,6 +278,7 @@ section#secThree {
         left: -23px;
         top: 0;
 }
+
 .btn-arrowed-right:after {
 	position: absolute;
         content: "";
@@ -281,3 +290,4 @@ section#secThree {
 	right: -44px;
 	top: 0;
 }
+*/

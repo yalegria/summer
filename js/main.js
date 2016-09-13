@@ -70,6 +70,9 @@ jQuery(function($) {'use strict',
 
 // Google Map Customization
 (function(){
+        $('#begin-journey').hover( function() {
+	    $('#apply-now i').css('display','inline');
+	});
 
 	var map;
 
