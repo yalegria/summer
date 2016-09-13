@@ -1,0 +1,283 @@
+.navbar-brand {
+	padding: 0px 15px;
+}
+.margin-bottom {
+	margin-bottom: 20px;
+}
+section {
+}
+
+.carousel-img-container {
+	background: rgba(0,0,0,0.5);
+	z-index: 10;
+}
+.list-clean {
+	list-style: none;
+	padding: 0;
+}
+#copyright {
+	font-size: 14px;
+	background: #000;
+        padding: 15px 0px;	
+        	
+}
+#footer-content {
+	padding: 35px 0px;
+}
+
+/***********/
+/*** NAV ***/
+/***********/
+ul.navbar-nav {
+	position: relative;
+}
+ul.navbar-nav li.dropdown {
+	position: initial;
+}
+ul.navbar-nav > li:hover ul.dropdown-menu {
+	display: block;
+}
+ul.navbar-nav li ul.dropdown-menu {
+	width: 100%;
+	padding: 20px;
+}
+ul.navbar-nav .dropdown-menu ul {
+	padding: 0px;
+}
+ul.navbar-nav .dropdown-menu h3 {
+	color: #264386;
+}
+ul.navbar-nav li ul li a {
+	color: #333;
+	padding: 0px;
+	text-transform: none;;
+}
+
+
+/***********************/
+/***** SECTION ONE *****/
+/***********************/
+section#secOne {
+	color: #FFF;
+        background: url(../images/gsapp-section-bg.jpg) no-repeat #00233F;
+	background-size: contain;
+        position: relative;
+	background-position: 50% 0;
+	padding: 40px 0px;
+}
+section#secOne h2 {
+	color: #234386;
+	margin: 0;
+}
+section#secOne h3 {
+	color: #CC3300;
+}
+section#secOne .nav-tabs li {
+	border-bottom: 1px solid #DDD;
+}
+section#secOne .nav-tabs li.active {
+	border-bottom: none;
+}
+section#secOne .nav-tabs li a {
+	background: rgba(255,255,255,0.7);
+	margin-right: 3px;
+	border-bottom: none;
+}
+section#secOne .nav-tabs li a:hover {
+	background: #CCC;
+}
+section#secOne .nav-tabs li.active a {
+	background: #FFF;
+}
+section#secOne .tab-content {
+	background: rgba(0, 0, 0, 0.2);
+}
+section#secOne .tab-content a {
+	color: #;
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+
+/***********************/
+/***** SECTION TWO *****/
+/***********************/
+section#secTwo {
+	color: #FFF;
+        padding: 40px 0px;
+	
+}
+section#secTwo h2 {
+        color: #CC0033;
+        margin-bottom: 20px; 
+}
+.eventRow {
+	height: 135px;
+	margin-bottom: 5px;
+}
+.eventDateBox {
+	background: #264386;
+	color: #FFF;
+	font-size: 1.5em;
+	width: 20%;
+	float: left;
+        padding: 0 20px;
+	height: inherit;
+}
+.eventDateBox h3 {
+	color: #FFF;
+	font-size: 3rem;
+}
+.eventDateBox h3 span {
+	font-size: 5rem;
+}
+.eventDateInfo {
+	background: rgba(0,0,0,0.1);
+	color: #264386;
+	width: 80%;
+	float: left;
+	padding: 20px;
+	height: inherit;
+	font-size: 3rem;
+	line-height: 27px;
+}
+#social-media {
+	background: rgba(0,0,0,0.1);
+	height: 511px;
+}
+#social-media .nav-tabs li a {
+
+}
+/*************************/
+/***** SECTION THREE *****/
+/*************************/
+section#secThree {
+	background: #CCC;
+	padding: 40px;
+}
+#audience-container {
+	margin-bottom: 40px;
+}
+.well {
+	padding: 0px;
+	position: relative;
+	height: 300px;
+	border: none;
+}
+
+
+
+.img-container {
+	position: relative;
+}
+.text-container {
+	position: absolute;
+	top: 0;
+        /* background: rgba(38, 67, 134, 0.5); */
+        background: rgba(0,0,0,0.5);	
+	width: 100%;
+        height: 100%;
+	text-align: center;
+        display: table;
+	overflow: hidden;
+	transition: background 0.7s ease-in-out;
+}
+.text-container .h-container {
+	margin: 0px;
+	padding: 15px;
+	display: table-cell;
+	vertical-align: middle;
+        width: 100%;
+        transition: width 1s;
+}
+.text-container .h-container h3 {
+        font-size: 4.0rem;
+	transition: font-size 1s;
+	text-shadow: 3px 3px 5px #000;
+}
+.text-container div.btn-container {
+	display: table;
+	text-align: center;
+	background: #FFF;
+        width: 40%;
+	height: 100%;
+	left: 100%;
+	position: absolute;
+        /* animation: rtl 3.5s 5;*/ 
+}
+.text-container div.btn-container a.btn {
+	display: table-cell;
+	vertical-align: middle;
+        color: #264386;
+}
+
+.text-container:hover {
+	background: rgba(38, 67, 134, 0.9);
+}
+.text-container:hover .h-container {
+        width: 60%;
+}
+.text-container:hover .h-container h3 {
+	font-size: 3.0rem;
+}
+.text-container:hover div.btn-container {
+	left: 60%; 
+	animation: rtl 1.5s 1;
+}
+
+@keyframes rtl {
+	0% {
+		left: 100%;
+	}
+	100% {
+	        left: 60%;
+	}
+}
+
+
+
+.tab-content {
+	padding: 20px;
+}
+.btn-primary {
+	background: rgba(204, 0, 51, 0.8);
+        background: #CC0033;
+        padding: 10px 0px;
+	font-size: 5rem;
+	text-transform: uppercase;
+	border: none;
+}
+.btn-secondary {
+       	background: rgba(0, 0, 0, 0.8);
+        background: #264386;
+        padding: 10px 0px;
+	font-size: 5rem;
+	text-transform: uppercase;
+	border: none;
+        color: #FFF;	
+}
+.btn-tertiary {
+
+}
+.btn-tail-left:before {
+	position: absolute;
+        content: "";
+        width: auto;
+        height: auto;
+        border-style: solid;
+        border-color: #CC0033 #CC0033 #CC0033 transparent;
+        border-width: 45px 22px;
+        left: -23px;
+        top: 0;
+}
+.btn-arrowed-right:after {
+	position: absolute;
+        content: "";
+        width: auto;
+	height: auto;
+        border-style: solid;
+        border-color: transparent transparent transparent #264386;
+	border-width: 45px 22px;
+	right: -44px;
+	top: 0;
+}
