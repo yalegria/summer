@@ -72,7 +72,9 @@ jQuery(function($) {'use strict',
 (function(){
         $('#begin-journey').hover( function() {
 	    $('#apply-now i').css('display','inline');
-	});
+	}, function () {
+            $('#apply-now i').css('display','none');
+        });
 
 	var map;
 
