@@ -9,7 +9,7 @@
 body {
   font-family: 'Dosis', sans-serif;
   font-size: 17px;
-  color: #fff
+  color: #000;
 }
 
 
@@ -65,7 +65,7 @@ h2 {
 .header-top {
   display: block;
   overflow: hidden;
-  padding: 25px;
+  padding: 10px 0px 25px;
 }
 
 .main-nav {
@@ -183,7 +183,7 @@ h2 {
   overflow: hidden;
 }
 
-#main-slider img {
+#main-slider img, #landing-slider img {
   width: 100%;
   position: relative;
   z-index: -1;
@@ -252,6 +252,17 @@ h2 {
   background-color:#fff;
   border: 1px solid #fff;
 }
+
+#landing-slider .carousel-caption {
+	bottom: 0px;
+        background: #000;
+	left: 0;
+	right: 0;
+	opacity: 0.7;
+	text-align: left;
+	padding-left: 20px;
+}
+
 
 /*************************
 *******Explore CSS******

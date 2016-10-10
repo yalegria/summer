@@ -4,8 +4,6 @@
 .margin-bottom {
 	margin-bottom: 20px;
 }
-section {
-}
 
 .carousel-img-container {
 	background: rgba(0,0,0,0.5);
@@ -23,6 +21,29 @@ section {
 }
 #footer-content {
 	padding: 35px 0px;
+}
+
+/***********************/
+/*** SITEWIDE HEADER ***/
+/***********************/
+#sitewide-header {
+	background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0));
+}
+#sitewide-header a {
+	color: #CC0033;
+	padding: 0px 10px;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+#sitewide-header input {
+	background: transparent;
+	border: none;
+	text-align: right;
+	margin-right: 10px;
+	color: #CC0033;
+}
+#sitewide-header input::-webkit-input-placeholder {
+	color: #CC0033;
 }
 
 /***********/
@@ -103,13 +124,22 @@ section#secOne .tab-content a {
 /***** SECTION TWO *****/
 /***********************/
 section#secTwo {
-	color: #FFF;
+	color: #000;
         padding: 40px 0px;
 	
 }
 section#secTwo h2 {
         color: #CC0033;
         margin-bottom: 20px; 
+}
+section#secTwo .well {
+	height: auto;
+	background: transparent;
+	border: none;
+	box-shadow: none;
+}
+section#secTwo. well ul li a {
+	color: #0C2841;
 }
 .eventRow {
 	height: 135px;
@@ -155,6 +185,7 @@ section#secThree {
 	background: #CCC;
 	padding: 40px;
 }
+
 #audience-container {
 	margin-bottom: 40px;
 }
@@ -194,6 +225,7 @@ section#secThree {
         font-size: 4.0rem;
 	transition: font-size 1s;
 	text-shadow: 3px 3px 5px #000;
+	color: #FFF;
 }
 .text-container div.btn-container {
 	display: table;
@@ -258,6 +290,9 @@ section#secThree {
 	text-transform: uppercase;
 	border: none;
         color: #FFF;	
+}
+.btn-secondary:hover {
+	color: #428bca;
 }
 .btn-tertiary {
 

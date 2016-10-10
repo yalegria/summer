@@ -33,72 +33,8 @@
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-
-    <header id="header" role="banner">		
-        <div class="main-nav">
-	    <div class="container">
-		<div class="header-top">
-		    <div class="pull-right social-icons">
-		        <a href="#"><i class="fa fa-twitter"></i></a>
-			<a href="#"><i class="fa fa-facebook"></i></a>
-			<a href="#"><i class="fa fa-google-plus"></i></a>
-			<a href="#"><i class="fa fa-youtube"></i></a>
-		    </div>
-		</div>
-                             
-	        <div class="row">	        		
-	            <div class="navbar-header">
-	                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-	                    <span class="sr-only">Toggle navigation</span>
-	                    <span class="icon-bar"></span>
-	                    <span class="icon-bar"></span>
-	                    <span class="icon-bar"></span>
-	                </button>
-	                <a class="navbar-brand" href="http://gsappweb.rutgers.edu">
-	                	<img class="img-responsive" src="images/gsapp-logo-1.png" alt="logo" />
-	                </a>                    
-	            </div>
-		    <div class="collapse navbar-collapse">
-		        <ul class="nav navbar-nav navbar-right">                 
-		            <li class="active"><a href="http://gsappweb.rutgers.edu">Home</a></li>
-		            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Programs</a>
-                                <ul class="dropdown-menu">
-			            <div class="row">
-                                        <div class="col-md-6">
-                                            <h3>Academic Programs</h3>
-                                            <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Doctor of Psychology (Psy.D.)</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Master of Psychology (Psy.M.)</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psy.D. Program in Clinical Psychology</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psy.D. Program in School Psychology</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Ph.D. Program in Clinical Psychology</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <h3>Concentrations</h3>
-                                            <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Multicultural Psychology Concentration</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Community Psychology Concentration</a></li>
-                                            </ul>
-                                            <h3>Interships</h3>
-                                            <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psychology Intership Consortium</a></li>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </ul>
-                            </li>                         
-		            <li class=""><a href="http://gsappweb.rutgers.edu/rts/">Research & Training</a></li>
-		            <li class=""><a href="http://gsappweb.rutgers.edu/about/news/newsevents.php">News & Events</a></li>                     
-		            <li class=""><a href="http://gsappweb.rutgers.edu/about/">About GSAPP</a></li>
-		        </ul>
-		    </div>
-		</div>
-	    </div>
-        </div>                    
-    </header>
-    <!--/#header--> 
+   
+    <?php include 'includes/header.php'; ?>
 
     <section id="home">	
 		<div id="main-slider" class="carousel slide" data-ride="carousel">
@@ -326,66 +262,7 @@
                 </div>
             </div>
         </section>
-        
+    <?php include 'includes/footer.php'; ?>        
 
-    <footer id="footer">
-        <div class="container" id="footer-content">
-	    <div class="row">
-		<div class="col-md-8">
-                <div class="col-md-4">
-		    <h4>Quick Links</h4>
-                    <ul class="list-clean">
-			<li>Admissions</h>
-                        <li>Catalog</li>
-                        <li>Center & Clinics</li>
-                        <li>Contact Us</li>
-                        <li>Courses</li>
-                        <li>FAQ</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h4>Noteworthy</h4>
-                    <ul class="list-clean">
-                        <li>GSAPP's Global Reach</li>
-                        <li>Gazette Newsletter</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h4>Support</h4>
-                    <ul class="list-clean">
-                        <li>Online Giving</li>
-                        <li>Donors</li>
-                    </ul>
-                </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="col-md-12">
-                        <img src="images/gsapp-ru-logo-footer-white.png" class="img-responsive">
-                        <h3>Graduate School of Applied and Professional Psychology</h3>
-                        <p>152 Frelinghuysen Road<br>
-                           Piscataway, NJ 08854-8020<br>
-                           848.445.2000</p>
-                    </div>
-                </div> 
-            </div>
-        </div>
-        <div class="container-fluid" id="copyright">
-            <div class="text-center">
-                <p> Copyright  &copy;2016 Rutgers, The State University of New Jersey. All Rights Reserved. <br> Designed & Powered by ITACS</p>                
-            </div>
-        </div> 
-    </footer>
-    <!--/#footer-->
-  
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <!-- script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-    <script type="text/javascript" src="js/gmaps.js"></script -->
-    <script type="text/javascript" src="js/smoothscroll.js"></script>
-    <script type="text/javascript" src="js/jquery.parallax.js"></script>
-    <!-- script type="text/javascript" src="js/coundown-timer.js"></script -->
-    <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
-    <script type="text/javascript" src="js/jquery.nav.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>  
 </body>
 </html>
