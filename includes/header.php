@@ -8,10 +8,10 @@
                 </div>     
                 <div class="header-top col-md-6">
                     <div class="pull-right ">
-                        <a href="#">Prospective Students</a>
-                        <a href="#">Current Students</a>
-                        <a href="#">Faculty & Staff</a>
-                        <a href="#">Alumni & Friends</a> 
+                        <a href="landing-page2-prospective-students.php">Prospective Students</a>
+                        <a href="landing-page2.php">Current Students</a>
+                        <a href="landing-page2-faculty-staff.php">Faculty & Staff</a>
+                        <a href="landing-page2-alumni-friends.php">Alumni & Friends</a> 
                     </div>
                 </div>
             </div>
@@ -27,6 +27,7 @@
                         <a class="navbar-brand" href="index.php">
                                 <img class="img-responsive" src="images/gsapp-logo-1.png" alt="logo" />
                         </a>
+                        
                     </div>
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right">
@@ -37,7 +38,7 @@
                                         <div class="col-md-6">
                                             <h3>Academic Programs</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psy.D. Program in Clinical Psychology</a></li>
+                                                <li><a href="content-page.php">Psy.D. Program in Clinical Psychology</a></li>
                                                 <li><a href="http://gsappweb.rutgers.edu/">Psy.D. Program in School Psychology</a></li>
                                             </ul>
                                         </div>

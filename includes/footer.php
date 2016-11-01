@@ -31,9 +31,12 @@
                     <div class="col-md-12">
                         <img src="images/gsapp-ru-logo-footer-white.png" class="img-responsive">
                         <h3>Graduate School of Applied and Professional Psychology</h3>
-                        <p>152 Frelinghuysen Road<br>
+                        <p class="margin-bottom">152 Frelinghuysen Road<br>
                            Piscataway, NJ 08854-8020<br>
                            848.445.2000</p>
+                        <p><a href="https://www.facebook.com/GSAPPRutgers" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
+                            <a href="https://twitter.com/GSAPPRutgers" target="_blank"><i class="fa fa-twitter-square fa-lg"></i></a>
+                        </p>
                     </div>
                 </div>
             </div>

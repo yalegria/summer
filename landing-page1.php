@@ -88,7 +88,7 @@
                         </div>
                         <div class="description-container">
                             <ul class="list-clean">
-                                <li><a href="#"><i class="fa fa-chevron-right"></i> Psy.D. Program in Clinical Psychology</a></li>
+                                <li><a href="content-page.php"><i class="fa fa-chevron-right"></i> Psy.D. Program in Clinical Psychology</a></li>
                                 <li><a href="#"><i class="fa fa-chevron-right"></i> Psy.D. Program in School Psychology</a></li>
                             </ul>
                         </div>
