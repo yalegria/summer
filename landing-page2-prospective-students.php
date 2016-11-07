@@ -75,8 +75,9 @@
                     <div class="col-md-4">
                         <nav class="navbar navbar-default">
                             <ul class="nav nav-pills nav-stacked">
+                                <li class="active"><a href="#">Overview<i class="fa fa-chevron-right pull-right"></i></a></li>
                                 <li><a href="#">Dean's Message</a></li>
-                                <li><a href="#">Admissions</a></li>
+                                <li><a href="content-page-3.php">Admissions</a></li>
                                 <li><a href="#">Tuition, Fees & Financial Aid</a></li>
                                 <li><a href="#">Program Catalog</a></li>
                                 <li><a href="#">Academic Programs</a></li>
@@ -91,7 +92,7 @@
                             <h1>News & Highlights</h1> 
                         </div>
                         <div class="col-md-6 text-right"> 
-		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-circle-right"></span></a>
+		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-right"></span></a>
                         </div>
                         </div>
                         <div class="item-list margin-bottom">
@@ -110,13 +111,13 @@
                         <div class="row">
                             <div class="col-md-12"><h2>Learn More</h2></div>
                             <div class="col-md-4">
-                                <a href="" class="col-md-12 btn btn-secondary btn-sm">About GSAPP <i class="margin-left fa fa-arrow-circle-right"></i></a>
+                                <a href="" class="col-md-12 btn btn-secondary btn-sm">About GSAPP <i class="margin-left fa fa-chevron-right"></i></a>
                             </div>
                             <div class="col-md-4">
-                                <a href="" class="col-md-12 btn btn-secondary btn-sm">Alumni Videos <i class="margin-left fa fa-arrow-circle-right"></i></a>
+                                <a href="" class="col-md-12 btn btn-secondary btn-sm">Alumni Videos <i class="margin-left fa fa-chevron-right"></i></a>
                             </div>
                             <div class="col-md-4">
-                                <a href="" class="col-md-12 btn btn-primary btn-sm">Apply Now <i class="margin-left fa fa-arrow-circle-right"></i></a>
+                                <a href="" class="col-md-12 btn btn-primary btn-sm">Apply Now <i class="margin-left fa fa-chevron-right"></i></a>
                             </div>
                         </div>
 

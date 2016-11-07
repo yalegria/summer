@@ -39,62 +39,66 @@
                                             <h3>Academic Programs</h3>
                                             <ul>
                                                 <li><a href="content-page.php">Psy.D. Program in Clinical Psychology</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psy.D. Program in School Psychology</a></li>
+                                                <li><a href="#">Psy.D. Program in School Psychology</a></li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6">
                                             <h3>Concentrations</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Multicultural Psychology Concentration</a></li>
+                                                <li><a href="#">Multicultural Psychology Concentration</a></li>
                                             </ul>
                                             <h3>Interships</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Psychology Intership Consortium</a></li>
+                                                <li><a href="#">Psychology Intership Consortium</a></li>
                                             </ul>
 
                                         </div>
                                     </div>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="http://gsappweb.rutgers.edu/rts/">Research & Training</a>
+                            <li class="dropdown"><a href="#">Research & Training</a>
                                 <ul class="dropdown-menu">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <h3>Research</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Project One</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Project Two</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Project Three</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Project Four</a></li>
-                                            </ul>
-                                            <h3>Training</h3>
-                                            <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Program One</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Program Two</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Program Three</a></li>
+                                                <li><a href="">Dialectical Behavior Therapy at Rutgers University (DBT-RU)</a></li>
+                                                <li><a href="">Franks Fund for the Study and Prevention of Stigma and Mental Illness</a></li>
+                                                <li><a href="">Institute for Research on Youth Depression and Prevention</a></li>
+                                                <li><a href="">Racial Discipline Gap in Schools</a></li>
+                                                <li><a href="">Rutgers School System Improvement Project</a></li>
+                                                <li><a href="">Rutgers Collaborative Coaching Project</a></li>
+                                                <li><a href="">Youth Anxiety and Depression Clinic</a></li>
                                             </ul>
 
                                         </div>
                                         <div class="col-md-6">
+                                            <h3>Training</h3>
+                                            <ul>
+                                                <li><a href="">Dialectical Behavior Therapy at Rutgers University (DBT-RU)</a></li>
+                                                <li><a href="">Institute for Research on Youth Depression and Prevention</a></li>
+                                                <li><a href="">Information Security Overview</a></li>
+                                            </ul>
+
                                             <h3>Service</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Program One</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Program Two</a></li>
+                                                <li><a href="">Foster Care Counseling Project</a></li>
                                             </ul>
                                             
                                             <h3>Centers & Clinics</h3>
                                             <ul>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Center One</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Center Two</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Center Three</a></li>
-                                                <li><a href="http://gsappweb.rutgers.edu/">Center Four</a></li>
+                                                <li><a href="">Douglass Development Disabilities Center</a></li>
+                                                <li><a href="">Center for Adult Austism Services</a></li>
+                                                <li><a href="">Center for Applied Psychology</a></li>
+                                                <li><a href="">Clinical Service Units</a></li>
+                                                <li><a href="">Other Service Units</a></li>
                                             </ul>
 
                                         </div>
                                     </div>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="http://gsappweb.rutgers.edu/about/news/newsevents.php">News & Events</a>
+                            <li class="dropdown"><a href="">News & Events</a>
                                 <ul class="dropdown-menu">
                                     <div class="row">
                                         <div class="col-md-6">
@@ -108,7 +112,7 @@
                                     </div>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="http://gsappweb.rutgers.edu/about/">About GSAPP</a>
+                            <li class="dropdown"><a href="">About GSAPP</a>
                                 <ul class="dropdown-menu">
                                     <div class="row">
                                         <div class="col-md-6">

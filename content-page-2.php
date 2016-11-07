@@ -64,7 +64,7 @@
             <li><a href="">Home</a></li>
             <li><a href="landing-page1.php">Programs</a></li>
             <li><a href="content-page.php">Psy.D.Program in Clinical Psychology</a></li>
-            <li><a href="" class="active">Program Overview</a></li>
+            <li><a href="" class="active">Message from the Chair</a></li>
         </ol>
     </section>
         <section id="secTwo">
@@ -73,34 +73,36 @@
                     <div class="col-md-4">
                         <nav class="navbar navbar-default">
                             <ul class="nav nav-pills nav-stacked">
-                                <li class="active"><a href="content-page.php">Program Overview <i class="fa fa-chevron-right pull-right"></i></a></li>
+                                <li><a href="content-page.php">Program Overview</a></li>
                                 <li><a href="#">Philosophy, Goals & Objectives</a></li>
                                 <li><a href="#">Clinical Faculty Advisors</a></li>
                                 <li><a href="#">Course Sequence</a></li>
                                 <li><a href="#">Major Milestones & Deadlines</a></li>
                                 <li><a href="#">Registration Information</a></li>
-                                <li><a href="content-page-2.php">Message from the Chair</a></li>
+                                <li class="active"><a href="content-page-2.php">Message from the Chair <i class="fa fa-chevron-right pull-right"></i></a></li>
                                 <li><a href="#">Contact Us</a></li>
                             </ul>
                         </nav>
                     </div>
                     <div class="col-md-8">
-                        <h1>Program Overview</h1> 
-                        <p>The Doctor of Psychology program in clinical psychology aims to educate psychologists for practice in clinical and other applied professional settings.</p>
-
-<p>The program adheres to the scholar-practicioner model for training all students. It aims to provide the student with a solid foundation in clinical work, including the basic areas of psychology, within which much of clinical practice is grounded. Didactic training in basic psychological principles is coupled with practical, graduated instruction in a range of assessment and intervention modes. While advancing through the training program, the student has the opportunity to specialize in intervention modes oriented around several of the most widely accepted theoretical positions, and within particular problem areas of clinical treatment. Infused into all educational and training experiences are awareness of, sensitivity to, and consideration of appropriate approaches for individual differences, such as those associated with ethnicity, culture, race, gender, sexual orientation, and national origin.</p>
-
-<p>While encouraging the student to gain a broad appreciation of the roots of contemporary clinical practices, the program also encourages development of both student and faculty interest in areas of clinical and applied work that are innovative in nature -- one of the most important functions of a university. To this end, faculty members are engaged in applied scholarly or research programs oriented around new intervention modes and new modes of relating to societal issues. Students are encouraged to work in these programs.</p>
-
-
-<p>Along with the pressure of managed care requiring increasingly time-efficient interventions, another converging pressure for change has come from the development of empirically-based interventions in clinical treatment. These are treatment procedures that have a sound base of empirical support demonstrating their beneficial effects. Fortunately, a number of the GSAPP faculty have been intimately involved in the development of some of these treatment methods and are well positioned to educate students about these techniques.</p>
-
-<p>Sensitive to the changing health care delivery system, GSAPP's goal is to produce graduates who will assume leadership roles in improving the development and delivery of mental health services, both in managed care and non managed care settings.</p>
-                        <div class="row">
-                        <div class="col-md-12"><h2>Do More</h2></div>
-                            <div class="col-md-4">
-                                <a class="col-md-12 btn btn-secondary btn-sm" href="">Student Services <i class="fa fa-chevron-right"></i></a>
-                            </div>
+                        <h1>Message from the Chair</h1> 
+			<img class="img-content-right img-responsive" src="images/walkup.jpg" />
+                        <p>We consider ourselves fortunate that so many smart, talented students entrust their training to the clinical Psy.D. program at the Graduate School of Applied & Professional Psychology.  We take pleasure in teaching our doctoral students, pride in the excellence they achieve, and satisfaction in the many lives they make better with the skills they acquire. </p>
+                        <p>We are part of a major research university, and our faculty includes internationally known scholars and researchers, who regularly contribute to the literature on a range of topics.   We encourage student involvement in our projects, and many students find research is more fun than it looked in college.  Some develop a taste for it, and decide to include it in their career plans; but in our program nobody has to pretend that they aim to be a researcher when they really want to be a clinician.  </p>
+                        <p>We value diversity.  Psychology has an obligation to develop resources, adapt and test approaches to reach people from diverse cultures and social circumstances, and break down barriers that make it hard for anyone to benefit from what it has to offer.  Our students share these values, and our thriving community of student-faculty organizations keeps these values front and center in the classroom, clinic, and community. </p>
+                        <p>Becoming a top-flight clinician is hard work.  Even the most gifted students have a lot to learn.  Clinical experience starts in first semester foundations courses, supported by high-quality supervision.  Teaching stresses science as well as skill building:  psychological models and research findings provide a platform to build proficiency using a progression of practical, up-to-date techniques for working with people with a range of problems.  Course work and clinical training are rigorous, and their pace demanding, but our students are well prepared for a future shaped by new knowledge, new clinical needs, and new opportunities to use psychological knowledge to promote human welfare.
+</p>
+                        <p>I hope this description of our program motivates you to learn more.  We have much to offer, but every student needs to find a good match to their individual needs: a place that will challenge them, support them, and give them the skills needed to become the clinical psychologist they aspire to be.  Have a look.</p>
+                        <p><br>Sincerely,<br><br>
+James Walkup, Ph.D. <br>
+Professor and Chair <br>
+Department of Clinical Psychology <br> 
+Director of Clinical Training <br>
+<br>
+Brian Chu, Ph.D.<br>
+Associate Professor and Assistant Department Chair<br>
+Department of Clinical Psychology<br>
+Assistant Director of Clinical Training</p>
 
                     </div>
                 </div>

@@ -91,7 +91,7 @@
                                     <h3>Prospective<br>Students</h3>
                                 </div>
                                 <div class="btn-container">
-                                    <a class="btn" href="http://gsappweb.rutgers.edu/pstudents/">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
+                                    <a class="btn" href="landing-page2-prospective-students.php">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
                                 </div>
                             </div> 
                         </div>
@@ -106,22 +106,7 @@
                                     <h3>Current<br>Students</h3>
                                 </div>
                                 <div class="btn-container">
-                                    <a class="btn" href="http://gsappweb.rutgers.edu/cstudents/">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
-                                </div>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-		        <div class="well" id="alumni-students">
-                            <div class="img-container">
-				<img src="images/alumni.jpg" class="img-responsive" />
-                            </div>
-                            <div class="text-container">
-                                <div class="h-container">
-                                    <h3>Alumni<br>& Friends</h3>
-                                </div>
-                                <div class="btn-container">
-                                    <a class="btn" href="http://gsappweb.rutgers.edu/alumni/">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
+                                    <a class="btn" href="landing-page2.php">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
                                 </div>
                             </div> 
                         </div>
@@ -136,11 +121,27 @@
 				    <h3>Faculty<br>& Staff</h3>
                                 </div>
                                 <div class="btn-container">
-                                    <a class="btn" href="http://gsappweb.rutgers.edu/facstaff/">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
+                                    <a class="btn" href="landing-page2-faculty-staff.php">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
                                 </div>
                             </div> 
                         </div>
                     </div>
+                    <div class="col-md-3">
+		        <div class="well" id="alumni-students">
+                            <div class="img-container">
+				<img src="images/alumni.jpg" class="img-responsive" />
+                            </div>
+                            <div class="text-container">
+                                <div class="h-container">
+                                    <h3>Alumni<br>& Friends</h3>
+                                </div>
+                                <div class="btn-container">
+                                    <a class="btn" href="landing-page2-alumni-friends.php">Explore<br><span class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></span></a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+
                 </div>
 
                 <div class="row">
@@ -172,11 +173,19 @@
                                 <h3>Are you sur? Yes! News Heading goes Here</h3>
                                 <div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<a href="#">Read More <span class="fa fa-chevron-circle-right" aria-hidden="true"></span></a>
                                 </div>
+                                <div class="margin-bottom"></div>
+				<div class="row">
+                                	<div class="col-md-12 text-center"><a href="" class="col-md-4 btn btn-quaternary">SEE ALL <i class="margin-left fa fa-chevron-right "></i></a></div>
+                                </div>
 
                             </div>
                             <div role="tabpanel" class="tab-pane" id="faculty-news">
                                 <h3>News Heading goes Here</h3>
                                 <div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<a href="#">Read More <span class="fa fa-chevron-circle-right" aria-hidden="true"></span></a>
+                                </div>
+                                <div class="margin-bottom"></div>
+                                <div class="row">
+                                        <div class="col-md-12 text-center"><a href="content-page-4.php" class="col-md-4 btn btn-quaternary">SEE ALL <i class="margin-left fa fa-chevron-right "></i></a></div>
                                 </div>
                             </div>
                             <div role="tabpanel" class="tab-pane" id="student-news">
@@ -187,7 +196,10 @@
                                 <h3>News Heading goes Here</h3>
                                 <div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <a href="#">Read More <span class="fa fa-chevron-circle-right" aria-hidden="true"></span></a>
                                 </div>
-
+                                <div class="margin-bottom"></div>
+                                <div class="row">
+                                        <div class="col-md-12 text-center"><a href="" class="col-md-4 btn btn-quaternary">SEE ALL <i class="margin-left fa fa-chevron-right "></i></a></div>
+                                </div>
                             </div>
                             <div role="tabpanel" class="tab-pane" id="alumni-news">
                                 <h3>Still Another Heading Goes in Here... Did you know?</h3>
@@ -197,7 +209,10 @@
                                 <h3>News Heading goes Here</h3>
                                 <div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <a href="#">Read More <span class="fa fa-chevron-circle-right" aria-hidden="true"></span></a>
                                 </div>
-
+                                <div class="margin-bottom"></div>
+                                <div class="row">
+                                        <div class="col-md-12 text-center"><a href="" class="col-md-4 btn btn-quaternary">SEE ALL <i class="margin-left fa fa-chevron-right "></i></a></div>
+                                </div>
                             </div>
                         </div>
                     </div>

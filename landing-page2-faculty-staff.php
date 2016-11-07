@@ -75,8 +75,9 @@
                     <div class="col-md-4">
                         <nav class="navbar navbar-default">
                             <ul class="nav nav-pills nav-stacked">
+                                <li class="active"><a href="#">Overview<i class="fa fa-chevron-right pull-right"></i></a></li>
                                 <li><a href="#">Faculty Directory</a></li>
-                                <li><a href="#">Faculty Highlights</a></li>
+                                <li><a href="content-page-4.php">Faculty Highlights</a></li>
                                 <li><a href="#">Staff Directory</a></li>
                                 <li><a href="#">Faculty Resources</a></li>
                             </ul>
@@ -88,7 +89,7 @@
                             <h1>News & Highlights</h1> 
                         </div>
                         <div class="col-md-6 text-right"> 
-		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-circle-right"></span></a>
+		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-right"></span></a>
                         </div>
                         </div>
                         <div class="item-list">
@@ -103,9 +104,6 @@
                             <p>Jessica Yu, a Clinical PhD graduate student working with Dr. Terry Wilson, has been awarded a Graduate School Research Award.</p>
                         </div>
                         <hr>
-                        <div class="row">
-                            <div class=""><a href="">About GSAPP</a></div>
-                        </div>
 
                     </div>
                 </div>

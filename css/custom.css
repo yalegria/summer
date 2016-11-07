@@ -1,5 +1,5 @@
 .navbar-brand {
-	padding: 0px 15px;
+	padding: 8px 15px;
 }
 .margin-bottom {
 	margin-bottom: 20px;
@@ -15,8 +15,15 @@
 	list-style: none;
 	padding: 0;
 }
+.list-clean i.fa {
+	margin-right: 10px;
+}
 .light-text {
 	color: #999;
+}
+.img-content-right {
+	float: right;
+	margin: 0px 0px 20px 20px;
 }
 #copyright {
 	font-size: 14px;
@@ -73,10 +80,30 @@ ul.navbar-nav .dropdown-menu ul {
 ul.navbar-nav .dropdown-menu h3 {
 	color: #264386;
 }
+ul.navbar-nav li {
+	list-style: none;
+}
 ul.navbar-nav li ul li a {
 	color: #333;
 	padding: 0px;
 	text-transform: none;;
+}
+
+/*******************/
+/*** SIDEBAR NAV ***/
+/*******************/
+.nav-pills > li {
+	border-bottom: 1px solid #DDE;
+}
+.nav-pills > li > a {
+	border-radius: 0;
+	color: #264386;
+}
+.nav-pills > li.active > a {
+	background-color: #264386;
+}
+.nav-pills > li.active > a i.fa {
+	line-height: inherit;
 }
 
 
@@ -119,7 +146,6 @@ section#secOne .tab-content {
 	background: rgba(0, 0, 0, 0.2);
 }
 section#secOne .tab-content a {
-	color: #;
 	margin-left: 5px;
 	font-weight: bold;
 }
@@ -132,6 +158,9 @@ section#secTwo {
 	color: #000;
         padding: 40px 0px;
 	
+}
+section#secTwo h1 {
+	margin-top: 0px;
 }
 section#secTwo h1, section#secTwo h2 {
         color: #CC0033;
@@ -276,10 +305,12 @@ section#secThree {
 .tab-content {
 	padding: 20px;
 }
+.btn {
+	float: none;
+}
 .btn-primary {
 	background: rgba(204, 0, 51, 0.8);
         background: #CC0033;
-        padding: 10px 0px;
 	font-size: 5rem;
 	text-transform: uppercase;
 	border: none;
@@ -290,7 +321,6 @@ section#secThree {
 .btn-secondary {
        	background: rgba(0, 0, 0, 0.8);
         background: #264386;
-        padding: 10px 0px;
 	font-size: 5rem;
 	text-transform: uppercase;
 	border: none;
@@ -301,6 +331,18 @@ section#secThree {
 }
 .btn-tertiary {
 
+}
+.btn-quaternary {
+	background: rgba(0,0,0,0.8);
+	font-size: 3rem;
+	color: #FFF;
+}
+.btn-quaternary i.fa {
+	font-size: 2.5rem;
+}
+.btn-quaternary:hover {
+	background: rgba(255,255,255,0.8);
+	color: #000;
 }
 .btn-sm {
 	font-size: 1.8em;
@@ -354,4 +396,9 @@ section#secThree {
 }	
 .breadcrumb li a.active {
 	color: #333;
+}
+
+
+.slide-content .carousel-img-container {
+	height: 277px;
 }

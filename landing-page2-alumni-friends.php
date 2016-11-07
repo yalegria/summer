@@ -72,6 +72,7 @@
                     <div class="col-md-4">
                         <nav class="navbar navbar-default">
                             <ul class="nav nav-pills nav-stacked">
+                                <li class="active"><a href="#">Overview<i class="fa fa-chevron-right pull-right"></i></a></li>
                                 <li><a href="#">Distinguished Alumni</a></li>
                                 <li><a href="#">Alumni Directory</a></li>
                                 <li><a href="#">Alumni Organizations</a></li>
@@ -86,7 +87,7 @@
                             <h1>News & Highlights</h1> 
                         </div>
                         <div class="col-md-6 text-right"> 
-		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-circle-right"></span></a>
+		 	    <a class="btn btn-tertiary" href="">List All <span class="fa fa-chevron-right"></span></a>
                         </div>
                         </div>
                         <div class="item-list">
